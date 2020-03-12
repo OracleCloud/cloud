@@ -1,1 +1,1 @@
-# cloud.github.io
+# https://oraclecloud.github.io/cloud/
